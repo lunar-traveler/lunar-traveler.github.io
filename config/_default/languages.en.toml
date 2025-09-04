@@ -1,0 +1,14 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jayden's Blog"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "Jan 02 2006"
+description = "Jayden's Blog"
+author = { name = "Jayden Li", image = "img/author.png", bio = "Student.", links = [ { github = "https://github.com/lunar-traveler" } ] }
+article.showZenMode = false

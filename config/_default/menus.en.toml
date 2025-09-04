@@ -1,0 +1,17 @@
+[[main]]
+name = "Articles"
+pageRef = "article"
+weight = 1
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 9000
+
+[[main]]
+pre = "github"
+url = "https://github.com/lunar-traveler/"
+weight = 9999
+
+[[footer]]
+none = "none"
