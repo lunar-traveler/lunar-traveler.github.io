@@ -19,7 +19,7 @@ exampleSite/resources/
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-#others
+# Others
 node_modules
 .hugo_build.lock
 
