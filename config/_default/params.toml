@@ -5,7 +5,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 replyByEmail = false
-disableImageOptimization = false
+disableImageOptimization = true
 disableTextInHeader = false
 smartTOC = true
 mainSections = [ "article" ]
@@ -61,7 +61,7 @@ showTableOfContents = true
 showTaxonomies = false
 showAuthorsBadges = true
 showWordCount = false
-showZenMode = true
+showZenMode = false
 
 [list]
 showHero = true

@@ -1,0 +1,18 @@
+---
+title: "Review of What is Life"
+date: 2025-09-02
+draft: true
+description: "My thoughts"
+---
+
+Just as the author of the intro, physicist Roger Penrose, stated, Schrödinger's humility with which he wrote *What is Life?* was amazing to see, and it is clear why it has inspired so many scientists over the years.
+
+One of the greatest effects on me after reading the short book, was it made me realize, that instead of definite, precise, and all-encompassing laws, our modern physics system is, in fact, built upon statistical observations. Specifically, laws of physics are not something intrinsic to one or two individual atoms or even molecules. In reality, minute particles around us are so greatly affected by the heat motion of the universe, that their individual movements are practically unpredictable, as evidenced by Brownian movement. It is only when observed in  groups comprised of very large amounts of material, that their behaviors resemble to that of orderly events, which we could then use to construct mathematical laws to approximate. In other words, the more the amount of matter that we are observing, the more accurately we can use laws to predict their behaviors.
+
+The core question that Schrödinger raised and tried to answer in *What is Life?* was "How can the events in *space and time* which take place within the spatial boundary of a living organism be accounted for by physics and chemistry?" To address this question, he takes us on a short journey through life science: the physics of molecules to genetics, then mutations, and finally arriving at quantum mechanics and entropy. 
+
+Schrödinger points out that the hereditary material existing in all life - the pairs of chromosomes that not only store and dictate our biological features, but also guide our bodies on how to grow. However he questions: How are such orderly and intricate strands of information able to maintain their orderliness against heat motion and other forces while remaining so small? The answer lies with quantum mechanics. Due to the mechanics of quantum jumping, the structures of complex molecules, which are discrete, could shift into different configuration, or an isomer,  when hit with enough radiation, and organisms' genes are also affected by this. And since changing the molecule's configuration once more would require even more energy to jump, this new state is "locked" by this energy threshold. Thus, genes are able to maintain their overall structure and succeed in mutations.
+
+Finally, Schrödinger answers how organisms maintain their inner orderliness during the process of living, by noting how life always increases the entropy around them in the process of reducing inner entropy to prevent death, almost as if *extracting* the orderliness from the environment. Thus, by consuming this "negative entropy", life is able to keep entropy at check. Although his argument held up poorly when it came to his explanation of life's need to consume food, he was modest enough to address this directly by providing a colleague's counter example - though graphite has low entropy, humans could not enjoy crushed diamond for breakfast - thus conceding that the contents of food is of importance.
+
+The dissatisfactory answer that he provides us with over the course of the book is an ultimate call to arms for humans to discover, for though parts of the science of life is grounded in hitherto unknown physics, it is possible for humans to attain this knowledge and decipher life.
