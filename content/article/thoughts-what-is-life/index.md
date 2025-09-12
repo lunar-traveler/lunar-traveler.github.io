@@ -1,8 +1,8 @@
 ---
 title: "Review of What is Life"
 date: 2025-09-02
-draft: true
-description: "My thoughts"
+draft: false
+description: "My thoughts on Schrödinger's work."
 ---
 
 Just as the author of the intro, physicist Roger Penrose, stated, Schrödinger's humility with which he wrote *What is Life?* was amazing to see, and it is clear why it has inspired so many scientists over the years.
